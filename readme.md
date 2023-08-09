@@ -1,4 +1,4 @@
-<img style="height:240px;width:240px"src="./Food-app.png"></img>
+<img style="height:240px;width:240px"src="./Food-app.png">
 # Food Order Application
 created using React.js, firebase,javascript.
 # Dependencies

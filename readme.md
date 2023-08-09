@@ -12,6 +12,9 @@ Make sure you have the following dependencies installed before running the appli
 - ReactDOM
 - NPM
 
+## Hosted Website URL
+https://food-order-app-4li7.onrender.com/
+
 ## Getting Started
 
 Follow these steps to get the application up and running:
